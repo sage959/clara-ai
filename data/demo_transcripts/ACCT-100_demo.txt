@@ -1,0 +1,9 @@
+Sales Rep: Hi, thanks for taking the time today. Can I get some basic info?
+Client: Sure.
+Sales Rep: Company: Apex Plumbing
+Sales Rep: Hours: 8 AM to 5 PM EST
+Sales Rep: Services: Leak repair, pipe installation, water heater fixing
+Sales Rep: What counts as an emergency?
+Client: Emergency: Burst pipes or severe flooding only. 
+Sales Rep: How should we route calls?
+Client: Routing: Transfer emergencies to Dave's cell. Normal stuff goes to the front desk.

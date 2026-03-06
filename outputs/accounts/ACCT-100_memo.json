@@ -1,0 +1,22 @@
+{
+  "account_id": "ACCT-100",
+  "company_name": "Apex Plumbing",
+  "business_hours": "7 AM to 6 PM EST",
+  "office_address": "Unknown",
+  "services_supported": [
+    "Leak repair",
+    "pipe installation",
+    "water heater fixing"
+  ],
+  "emergency_definition": "Burst pipes or severe flooding only.",
+  "emergency_routing_rules": "Transfer emergencies to the on-call dispatch line, not Dave's cell anymore. Normal goes to front desk.",
+  "non_emergency_routing_rules": "Take a message",
+  "call_transfer_rules": "Transfer to main line if requested",
+  "integration_constraints": "Unknown",
+  "after_hours_flow_summary": "Emergency check -> Collect details -> Transfer or Assure follow-up",
+  "office_hours_flow_summary": "Greeting -> Determine purpose -> Route",
+  "questions_or_unknowns": [
+    "Missing information for integration_constraints"
+  ],
+  "notes": "Updated from v2 onboarding call."
+}

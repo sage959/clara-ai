@@ -1,0 +1,6 @@
+Agent: Let's finalize your setup. Any changes to the hours?
+Client: Yes, we are extending them.
+Agent: Hours: 7 AM to 6 PM EST
+Agent: Anything else?
+Client: We want to add a routing rule.
+Agent: Routing: Transfer emergencies to the on-call dispatch line, not Dave's cell anymore. Normal goes to front desk.
